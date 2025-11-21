@@ -17,10 +17,15 @@ El análisis de código dinámico también se conoce como prueba dinámica de se
 Herramientas clave para la revisión de código de IA
 
 watsonx Code Assistant™: La solución watsonx Code Assistant utiliza AI generativa para acelerar el desarrollo mientras se mantienen los principios de confianza y seguridad. Con watsonx Code Assistant, los desarrolladores pueden reducir errores, minimizar la curva de aprendizaje y crear código de calidad a través de la generación de código, la coincidencia de código y la modernización del código.
+
 Codacy: Codacy ofrece revisiones de código automatizadas que admiten lenguajes como JavaScript y Python, lo que ayuda a los desarrolladores a mantener la calidad del código en todos sus proyectos. El proceso de incorporación está diseñado para integrar perfectamente en los flujos de trabajo de software, lo que permite a los equipos detectar problemas a tiempo.
+
 DeepCode: DeepCode emplea IA para analizar el código en tiempo real, proporcionando insights procesables para proyectos de código abierto. Esta herramienta mejora la experiencia de incorporación para los nuevos desarrolladores al identificar errores comunes y promover las mejores prácticas en ingeniería de software.
+
 IA Bito: La IA Bito se centra en agilizar la incorporación de equipos de ingeniería de software con su interfaz intuitiva y comentarios impulsados por IA. Puede proporcionar feedback inmediato y recomendaciones aplicables en la práctica, y ayudar a los nuevos miembros del equipo a adaptar rápidamente a los estándares y mejores prácticas de programación de la compañía.
+
 PullRequest: PullRequest ofrece ambos insights impulsados por IA y experiencia humana, lo que facilita un proceso de incorporación sin problemas para los equipos de ingeniería de software. La plataforma fomenta la colaboración y el intercambio de conocimientos para alentar a los desarrolladores más nuevos a aprender de las experiencias de los revisores.
+
 Coderabbit: Coderabbit es una plataforma de revisión de código de IA que utiliza herramientas de IA para producir análisis y feedback clara. Ofrece comentarios similares a las humanas y es personalizable ya que funciona con todos los lenguajes de programación.
 
 
@@ -28,6 +33,7 @@ Fuente: https://www.ibm.com/mx-es/think/insights/ai-code-review
 
 
 Explicar por qué no es posible asegurar al 100% la autoría.
+
 es complicado garantizar al 100 la autoria de una obra, las leyes de derechos de autor solo protegen la forma en que se expresa una idea, no la idea en sí por lo qu esto significa que diferentes personas pueden crear obras similares de manera independiente sin que eso se considere una infracción como tal, ademas a menudo es un reto demostrar con certeza que alguien ha copiado una obra, ya que el proceso de prueba puede ser complicado, especialmente si no hay un registro previo o si los cambios realizados hacen que sea difícil de rastrear. También hay excepciones legales, como el uso educativo, la investigación o el uso privado, que permiten a otros utilizar partes de una obra sin necesidad de autorización, lo que complica aun mas la posibilidad de asegurar una protección total incluso en campos tecnicos, como el desarrollo de software aunque se pueden usar metodos como el analisis de codigo estatico o dinamico para evaluar la calidad, la seguridad o las similitudes, estas herramientas no pueden confirmar de manera definitiva la originalidad del código, el analisis puede detectar errores, patrones o comportamientos, pero no puede determinar con total precisión si alguien creo un fragmento de manera independiente o si lo copio, por todas estas razones las limitaciones legales, la dificultad de probar y la naturaleza misma de las ideas no se puede asegurar la autoría de forma absoluta.
 
 
@@ -41,3 +47,4 @@ Política de regulación nacional, en la cual los organismos públicos establezc
 
 Fuente : https://www.unesco.org/es/articles/el-uso-de-la-ia-en-la-educacion-decidir-el-futuro-que-queremos
 </p>
+
